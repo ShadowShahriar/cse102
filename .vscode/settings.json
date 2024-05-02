@@ -8,5 +8,8 @@
 		"**/Thumbs.db": true,
 		"**/*.exe": true,
 		"**/.gitignore": true
+	},
+	"files.associations": {
+		"stdio.h": "c"
 	}
 }
