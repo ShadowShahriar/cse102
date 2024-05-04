@@ -48,7 +48,7 @@
 
 ![Task 13](./preview-13.png)
 
-> Our class representative, **Mubasshir Siam (ID 409)**, sent me two additional exercises on **April 23, 2024**.
+> Our class representative, [**Mubasshir Siam (ID 409)**][1], sent me two additional exercises on **April 23, 2024**.
 
 [📌 **Question Paper**](./tasks.jpg)
 
@@ -59,3 +59,5 @@
 ## Task 11: Find the sum of individual columns of a 2D Array
 
 ![Task 11](./preview-11.png)
+
+[1]: https://www.facebook.com/stone.vieana
