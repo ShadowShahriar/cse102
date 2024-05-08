@@ -2,13 +2,13 @@
 
 int main()
 {
-	char str[2000];
-	int otherThanLowerCase = 0;
+	int n = 2000;
+	char str[n];
 	printf("Enter a string: ");
 	gets(str);
 
 	printf("\n");
-	for (int i = 0; i < 2000; i++)
+	for (int i = 0; i < n; i++)
 	{
 		printf("%4d: ", i);
 		printf("%c\n", str[i]);
