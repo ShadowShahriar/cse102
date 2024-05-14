@@ -16,4 +16,5 @@ int main()
 	printf("\nNew Array: ");
 	for (int y = 0; y < N; y++)
 		printf("%d ", b[y]);
+	return 0;
 }
