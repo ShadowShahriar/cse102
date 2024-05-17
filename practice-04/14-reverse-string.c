@@ -3,7 +3,6 @@
 
 int main()
 {
-	int result;
 	char str1[100], str2[100];
 	printf("Given string:    ");
 	gets(str1);
