@@ -88,13 +88,17 @@
 
 ![Task 21](./preview-21.png)
 
-## Task 22: Input and display character elements
+## Task 22: Input and display array elements
 
-![Task 22](./preview-22.png)
+**Note:** Duplicate of **Task 7**
+
+![Task 22](./preview-07.png)
 
 ## Task 23: Sum of all array elements
 
-![Task 23](./preview-23.png)
+**Note:** Duplicate of **Task 9**
+
+![Task 23](./preview-09.png)
 
 ## Task 24: Insert new element in an array
 
