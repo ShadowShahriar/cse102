@@ -1,4 +1,4 @@
-# BIUPC 2024 (Preliminary)
+# BIUPC 2024 (Onsite)
 
 > [**BUBT IT Club**][1] organized an exciting Intra University Programming Contest, and as a student of **Intake 53**, I was thrilled to participate in the **Junior** division. Luckily enough, I was selected to attend the final onsite contest!
 
