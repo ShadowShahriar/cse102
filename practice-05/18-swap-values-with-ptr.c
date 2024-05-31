@@ -1,5 +1,4 @@
 #include <stdio.h>
-#define max 5
 
 void swap(int *a, int *b)
 {
