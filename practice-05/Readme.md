@@ -1,6 +1,8 @@
 # Practice 5: Final Examination (Pointers & Strings)
 
-> The following practice problems are based on the study material provided by our CSE lecturer, **NSAZ** on **March 8, 2024**.
+> The following practice problems are based on the study material provided by our CSE lecturer, **NSAZ** on **May 8, 2024**.
+
+[📌 **Lecture Slide: Strings**][1]
 
 ### Task 1: Hello World
 
@@ -50,7 +52,9 @@
 
 ![Task 12](./preview-12.png)
 
-> The following practice problems are based on the study material provided by our CSE lecturer, **NSAZ** on **March 9, 2024**.
+> The following practice problems are based on the study material provided by our CSE lecturer, **NSAZ** on **May 9, 2024**.
+
+[📌 **Lecture Slide: Pointers**][0]
 
 ### Task 13: Pointers
 
