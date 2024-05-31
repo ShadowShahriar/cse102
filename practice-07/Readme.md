@@ -49,4 +49,71 @@ So, here is a compilation of practice problem focused on these 4 topics:
 
 ![Task 10](./preview-10.png)
 
+> On the same day, our class representative, [**Toma Islam (ID 406)**][0], collected these practice problems from another section:
+
+### Task 11: Add two numbers using recursion
+
+![Task 11](./preview-11.png)
+
+### Task 12: Reverse a number using recursion
+
+![Task 12](./preview-12.png)
+
+### Task 13: Find the maximum and minimum range of elements in an Array
+
+![Task 13](./preview-13.png)
+
+### Task 14: Find Factorial of a number using recursion
+
+Duplicate of [**Task 1**](#task-1-recursive-factorial)
+
+![Task 1](./preview-01.png)
+
+### Task 15: Generate the `n`th Fibonacci term using recursion
+
+![Task 15](./preview-15.png)
+
+### Task 16: Compare two Strings without Library functions
+
+![Task 16](./preview-16.png)
+
+### Task 17: Find the second largest element in an Array
+
+![Task 17](./preview-17.png)
+
+### Task 18: Count the total number of even and odd elements in an Array
+
+![Task 18](./preview-18.png)
+
+### Task 19: Add two 2x2 matrices
+
+Similar to [**Task 4**](#task-4-add-two-matrices)
+
+![Task 19](./preview-19.png)
+
+### Task 20: Copy one String to another
+
+![Task 20](./preview-20.png)
+
+### Task 21: Concatenate and Compare two Strings
+
+![Task 21](./preview-21.png)
+
+### Task 22: Count the total number of alphabets, digits, and special characters in a String
+
+![Task 22](./preview-22.png)
+
+### Task 23: Count the total number of words in a string
+
+![Task 23](./preview-23.png)
+
+### Task 24: Check if a String is palindrome or not
+
+![Task 24](./preview-24.png)
+
+### Task 25: Swap two numbers using call by reference (Pointers)
+
+![Task 25](./preview-25.png)
+
+[0]: https://www.facebook.com/tomaislam.tomaislam.7161
 [1]: https://www.facebook.com/profile.php?id=100083296789987
