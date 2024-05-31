@@ -56,6 +56,8 @@
 
 [📌 **Lecture Slide: Pointers**][0]
 
+[📌 **Pointers Playlist (by Anisul Islam)**][2]
+
 ### Task 13: Pointers
 
 ![Task 13](./preview-13.png)
