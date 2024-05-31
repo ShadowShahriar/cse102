@@ -1,4 +1,1 @@
-# Practice 7: Facing My Worst Nightmare
-
-[1]: https://codeforces.com/problemset?order=BY_SOLVED_DESC
-[2]: https://codeforces.com/group/MWSDmqGsZm/contests
+# Practice 7: Final Examination (Last Minute Preparation)
