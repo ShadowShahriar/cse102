@@ -97,7 +97,9 @@ Similar to [**Task 4**](#task-4-add-two-matrices)
 
 ### Task 21: Concatenate and Compare two Strings
 
-![Task 21](./preview-21.png)
+![Task 21 (A)](./preview-21A.png)
+
+![Task 21 (B)](./preview-21B.png)
 
 ### Task 22: Count the total number of alphabets, digits, and special characters in a String
 
