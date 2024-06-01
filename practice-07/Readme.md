@@ -117,5 +117,11 @@ Similar to [**Task 4**](#task-4-add-two-matrices)
 
 ![Task 25](./preview-25.png)
 
+### Task 26: Multiply two matrices
+
+Probably the toughest one so far.
+
+![Task 26](./preview-26.png)
+
 [0]: https://www.facebook.com/tomaislam.tomaislam.7161
 [1]: https://www.facebook.com/profile.php?id=100083296789987
