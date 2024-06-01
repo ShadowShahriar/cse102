@@ -3,8 +3,8 @@
 
 int main()
 {
-	char str1[] = "I am an Coder.";
-	char str2[] = "I'm an Coder.";
+	char str1[] = "I am a Coder.";
+	char str2[] = "I'm a Coder.";
 	int result = strcmp(str1, str2);
 
 	if (result == 0)

@@ -6,7 +6,6 @@ int main()
 {
 	int A[rows][columns]; // Matrix A
 	int B[rows][columns]; // Matrix B
-	int C[rows][columns]; // Matrix A + Matrix B
 	int row, column;
 	int flag = 0;
 
