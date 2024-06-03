@@ -123,5 +123,12 @@ Probably the toughest one so far.
 
 ![Task 26](./preview-26.png)
 
+### Task 27: Check if a String is palindrome or not without using any built-in functions
+
+The `isPalindrome` function was written by [**Ashikur Rahman**][2].
+
+![Task 27](./preview-27.png)
+
 [0]: https://www.facebook.com/tomaislam.tomaislam.7161
-[1]: https://www.facebook.com/profile.php?id=100083296789987
+[1]: https://github.com/NasrinAkter19
+[2]: https://www.facebook.com/profile.php?id=100088822024865
