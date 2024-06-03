@@ -48,7 +48,7 @@ Assistant Professor & Chairman (Acting), Dept. of CSE, BUBT
 
 Eid is approaching and Kabir is doing calculations about how much money he is going to spend for giving eidi to his baby cousins. Kabir wants to give each of the cousins an equal amount of money as eidi or else the cousins that received less money will be upset.
 
-Kabir currently has _N_ Tk and he has _K_ cousins.Kabir realized that the amount of money he has right now might not be distributed equally among _K_ people. Now Kabir wants to find out at least how much more money he needs so that he can give each of his cousins exactly the same amount of eidi.
+Kabir currently has _N_ Tk and he has _K_ cousins. Kabir realized that the amount of money he has right now might not be distributed equally among _K_ people. Now Kabir wants to find out at least how much more money he needs so that he can give each of his cousins exactly the same amount of eidi.
 
 ### Input
 
