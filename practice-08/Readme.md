@@ -9,12 +9,15 @@ Then I decided to take a step back and familiarize myself with **CodeForces**. M
 ### [Sheet 1][3]
 
 -   [**A:** Say Hello With C++][3A]
+-   [**B:** Basic Data Types][3B]
 -   [**C:** Simple Calculator][3C]
 -   [**D:** Difference][3D]
+-   [**E:** Area of a Circle][3E]
 -   [**F:** Digits Summation][3F]
 -   [**G:** Summation from 1 to N][3G]
 -   [**I:** Welcome for you with Conditions][3I]
 -   [**J:** Multiples][3J]
+-   [**U:** Float or Int][3U]
 
 <!-- === links === -->
 
@@ -23,9 +26,12 @@ Then I decided to take a step back and familiarize myself with **CodeForces**. M
 [2]: https://codeforces.com/group/MWSDmqGsZm/contests
 [3]: https://codeforces.com/group/MWSDmqGsZm/contest/219158
 [3A]: https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/A
+[3B]: https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/B
 [3C]: https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/C
 [3D]: https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/D
+[3E]: https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/E
 [3F]: https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/F
 [3G]: https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/G
 [3I]: https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/I
 [3J]: https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/J
+[3U]: https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/U
