@@ -15,8 +15,10 @@ Then I decided to take a step back and familiarize myself with **CodeForces**. M
 -   [**E:** Area of a Circle][3E]
 -   [**F:** Digits Summation][3F]
 -   [**G:** Summation from 1 to N][3G]
+-   [**H:** Two Numbers][3H]
 -   [**I:** Welcome for you with Conditions][3I]
 -   [**J:** Multiples][3J]
+-   [**K:** Max and Min][3K]
 -   [**U:** Float or Int][3U]
 
 <!-- === links === -->
@@ -32,6 +34,8 @@ Then I decided to take a step back and familiarize myself with **CodeForces**. M
 [3E]: https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/E
 [3F]: https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/F
 [3G]: https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/G
+[3H]: https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/H
 [3I]: https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/I
 [3J]: https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/J
+[3K]: https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/K
 [3U]: https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/U
