@@ -20,6 +20,11 @@ Then I decided to take a step back and familiarize myself with **CodeForces**. M
 -   [**J:** Multiples][3J]
 -   [**K:** Max and Min][3K]
 -   [**L:** The Brothers][3L]
+-   [**M:** Capital or Small or Digit][3M]
+-   [**N:** Char][3N]
+-   [**O:** Calculator][3O]
+-   [**P:** First Digit!][3P]
+-   [**Q:** Coordinates of a Point][3Q]
 -   [**U:** Float or Int][3U]
 
 <!-- === links === -->
@@ -40,4 +45,9 @@ Then I decided to take a step back and familiarize myself with **CodeForces**. M
 [3J]: https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/J
 [3K]: https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/K
 [3L]: https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/L
+[3M]: https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/M
+[3N]: https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/N
+[3O]: https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/O
+[3P]: https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/P
+[3Q]: https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/Q
 [3U]: https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/U
