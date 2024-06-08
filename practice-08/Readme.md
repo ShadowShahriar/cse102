@@ -31,6 +31,10 @@ Then I decided to take a step back and familiarize myself with **CodeForces**. M
 -   [**S:** Intervals][3S]
 -   [**T:** Sort Numbers (⭐)][3T]
 -   [**U:** Float or Int][3U]
+-   [**V:** Comparison][3V]
+-   [**W:** Mathematical Expression][3W]
+-   [**X:** Two Intervals (⭐)][3X]
+-   [**Y:** The Last 2 Digits (⭐)][3Y]
 
 <!-- === links === -->
 
@@ -59,3 +63,7 @@ Then I decided to take a step back and familiarize myself with **CodeForces**. M
 [3S]: https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/S
 [3T]: https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/T
 [3U]: https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/U
+[3V]: https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/V
+[3W]: https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/W
+[3X]: https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/X
+[3Y]: https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/Y

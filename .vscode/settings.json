@@ -9,5 +9,9 @@
 		"**/*.exe": true,
 		"**/.gitignore": true,
 		"**/desktop.ini": true
+	},
+	"files.associations": {
+		"cmath": "c",
+		"stdio.h": "c"
 	}
 }
