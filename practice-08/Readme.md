@@ -35,6 +35,7 @@ Then I decided to take a step back and familiarize myself with **CodeForces**. M
 -   [**W:** Mathematical Expression][3W]
 -   [**X:** Two Intervals (⭐)][3X]
 -   [**Y:** The Last 2 Digits (⭐)][3Y]
+-   [**Z:** Hard Compare (⭐)][3Z]
 
 <!-- === links === -->
 
@@ -67,3 +68,4 @@ Then I decided to take a step back and familiarize myself with **CodeForces**. M
 [3W]: https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/W
 [3X]: https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/X
 [3Y]: https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/Y
+[3Z]: https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/Z
