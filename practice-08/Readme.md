@@ -4,6 +4,8 @@
 
 Then I decided to take a step back and familiarize myself with **CodeForces**. My goal was to solve more problems and identify patterns, so I began from the very basics. Here are the problems I have solved so far:
 
+**Note:** Interesting problems are marked with a star (⭐)
+
 ## [ICPC Assiut University Community (Newcomers Training)][2]
 
 ### [Sheet 1][3]
@@ -25,6 +27,9 @@ Then I decided to take a step back and familiarize myself with **CodeForces**. M
 -   [**O:** Calculator][3O]
 -   [**P:** First Digit!][3P]
 -   [**Q:** Coordinates of a Point][3Q]
+-   [**R:** Age in Days][3R]
+-   [**S:** Intervals][3S]
+-   [**T:** Sort Numbers (⭐)][3T]
 -   [**U:** Float or Int][3U]
 
 <!-- === links === -->
@@ -50,4 +55,7 @@ Then I decided to take a step back and familiarize myself with **CodeForces**. M
 [3O]: https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/O
 [3P]: https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/P
 [3Q]: https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/Q
+[3R]: https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/R
+[3S]: https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/S
+[3T]: https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/T
 [3U]: https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/U
