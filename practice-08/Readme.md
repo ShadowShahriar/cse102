@@ -37,6 +37,12 @@ Then I decided to take a step back and familiarize myself with **CodeForces**. M
 -   [**Y:** The Last 2 Digits (⭐)][3Y]
 -   [**Z:** Hard Compare (⭐)][3Z]
 
+### [Sheet 2][4]
+
+-   [**A:** 1 to N][4A]
+-   [**B:** Even Numbers][4B]
+-   [**C:** Even, Odd, Positive, and Negative][4C]
+
 <!-- === links === -->
 
 [0]: https://www.facebook.com/share/p/SJoxJEWZruUWbuQy/
@@ -69,3 +75,7 @@ Then I decided to take a step back and familiarize myself with **CodeForces**. M
 [3X]: https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/X
 [3Y]: https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/Y
 [3Z]: https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/Z
+[4]: https://codeforces.com/group/MWSDmqGsZm/contest/219432
+[4A]: https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/A
+[4B]: https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/B
+[4C]: https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/C
