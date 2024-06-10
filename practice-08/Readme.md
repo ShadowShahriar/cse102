@@ -43,6 +43,7 @@ Then I decided to take a step back and familiarize myself with **CodeForces**. M
 -   [**B:** Even Numbers][4B]
 -   [**C:** Even, Odd, Positive, and Negative][4C]
 -   [**D:** Fixed Password][4D]
+-   [**E:** Max][4E]
 
 <!-- === links === -->
 
@@ -81,3 +82,4 @@ Then I decided to take a step back and familiarize myself with **CodeForces**. M
 [4B]: https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/B
 [4C]: https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/C
 [4D]: https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/D
+[4E]: https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/E
