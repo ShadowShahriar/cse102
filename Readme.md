@@ -8,7 +8,7 @@ While I have some coding knowledge, I understand the importance of consistent pr
 
 **Duration:** 3 months and 29 days (from **14 Feb 2024** to **12 Jun 2024**)
 
-**Problems Solved:** 235
+**Problems Solved:** 239
 
 **Student Information:**
 
