@@ -45,6 +45,8 @@ Then I decided to take a step back and familiarize myself with **CodeForces**. M
 -   [**D:** Fixed Password][4D]
 -   [**E:** Max][4E]
 -   [**F:** Multiplication Table][4F]
+-   [**G:** Factorial][4G]
+-   [**H:** One Prime][4H]
 
 <!-- === links === -->
 
@@ -85,3 +87,5 @@ Then I decided to take a step back and familiarize myself with **CodeForces**. M
 [4D]: https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/D
 [4E]: https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/E
 [4F]: https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/F
+[4G]: https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/G
+[4H]: https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/H
