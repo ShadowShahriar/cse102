@@ -47,6 +47,10 @@ Then I decided to take a step back and familiarize myself with **CodeForces**. M
 -   [**F:** Multiplication Table][4F]
 -   [**G:** Factorial][4G]
 -   [**H:** One Prime][4H]
+-   [**I:** Palindrome][4I]
+-   [**J:** Primes from 1 to N][4J]
+-   [**K:** Divisors][4K]
+-   [**L:** GCD][4L]
 
 <!-- === links === -->
 
@@ -89,3 +93,7 @@ Then I decided to take a step back and familiarize myself with **CodeForces**. M
 [4F]: https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/F
 [4G]: https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/G
 [4H]: https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/H
+[4I]: https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/I
+[4J]: https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/J
+[4K]: https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/K
+[4L]: https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/L
