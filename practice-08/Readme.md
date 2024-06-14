@@ -56,6 +56,13 @@ Then I decided to take a step back and familiarize myself with **CodeForces**. M
 -   [**O:** Pyramid][4O]
 -   [**P:** Shape1][4P]
 -   [**Q:** Digits (⭐)][4Q]
+-   [**R:** Sequence of Numbers and Sum][4R]
+-   [**S:** Sum of Consecutive Odd Numbers][4S]
+-   [**T:** Shape2][4T]
+-   [**U:** Some Sums][4U]
+-   [**V:** PUM][4V]
+-   [**W:** Shape3][4W]
+-   [**Y:** Easy Fibonacci (⭐)][4Y]
 
 <!-- === links === -->
 
@@ -107,3 +114,10 @@ Then I decided to take a step back and familiarize myself with **CodeForces**. M
 [4O]: https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/O
 [4P]: https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/P
 [4Q]: https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/Q
+[4R]: https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/R
+[4S]: https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/S
+[4T]: https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/T
+[4U]: https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/U
+[4V]: https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/V
+[4W]: https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/W
+[4Y]: https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/Y
