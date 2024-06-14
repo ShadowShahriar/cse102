@@ -51,6 +51,11 @@ Then I decided to take a step back and familiarize myself with **CodeForces**. M
 -   [**J:** Primes from 1 to N][4J]
 -   [**K:** Divisors][4K]
 -   [**L:** GCD][4L]
+-   [**M:** Lucky Numbers][4M]
+-   [**N:** Number Histogram][4N]
+-   [**O:** Pyramid][4O]
+-   [**P:** Shape1][4P]
+-   [**Q:** Digits (⭐)][4Q]
 
 <!-- === links === -->
 
@@ -97,3 +102,8 @@ Then I decided to take a step back and familiarize myself with **CodeForces**. M
 [4J]: https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/J
 [4K]: https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/K
 [4L]: https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/L
+[4M]: https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/M
+[4N]: https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/N
+[4O]: https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/O
+[4P]: https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/P
+[4Q]: https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/Q
