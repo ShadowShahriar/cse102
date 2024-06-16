@@ -62,7 +62,9 @@ Then I decided to take a step back and familiarize myself with **CodeForces**. M
 -   [**U:** Some Sums][4U]
 -   [**V:** PUM][4V]
 -   [**W:** Shape3][4W]
+-   [**X:** Convert to Decimal 2][4X]
 -   [**Y:** Easy Fibonacci (⭐)][4Y]
+-   [**Z:** Three Numbers (⭐)][4Z]
 
 <!-- === links === -->
 
@@ -120,4 +122,6 @@ Then I decided to take a step back and familiarize myself with **CodeForces**. M
 [4U]: https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/U
 [4V]: https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/V
 [4W]: https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/W
+[4X]: https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/X
 [4Y]: https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/Y
+[4Z]: https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/Z
