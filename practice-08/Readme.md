@@ -66,6 +66,10 @@ Then I decided to take a step back and familiarize myself with **CodeForces**. M
 -   [**Y:** Easy Fibonacci (⭐)][4Y]
 -   [**Z:** Three Numbers (⭐)][4Z]
 
+### [Sheet 3][5]
+
+-   [**A:** Summation][5A]
+
 <!-- === links === -->
 
 [0]: https://www.facebook.com/share/p/SJoxJEWZruUWbuQy/
@@ -125,3 +129,5 @@ Then I decided to take a step back and familiarize myself with **CodeForces**. M
 [4X]: https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/X
 [4Y]: https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/Y
 [4Z]: https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/Z
+[5]: https://codeforces.com/group/MWSDmqGsZm/contest/219774
+[5A]: https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/A
