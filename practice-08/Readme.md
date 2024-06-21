@@ -69,6 +69,7 @@ Then I decided to take a step back and familiarize myself with **CodeForces**. M
 ### [Sheet 3][5]
 
 -   [**A:** Summation][5A]
+-   [**B:** Searching][5B]
 
 <!-- === links === -->
 
@@ -131,3 +132,4 @@ Then I decided to take a step back and familiarize myself with **CodeForces**. M
 [4Z]: https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/Z
 [5]: https://codeforces.com/group/MWSDmqGsZm/contest/219774
 [5A]: https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/A
+[5B]: https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/B
