@@ -70,6 +70,7 @@ Then I decided to take a step back and familiarize myself with **CodeForces**. M
 
 -   [**A:** Summation][5A]
 -   [**B:** Searching][5B]
+-   [**C:** Replacement][5C]
 
 <!-- === links === -->
 
@@ -133,3 +134,4 @@ Then I decided to take a step back and familiarize myself with **CodeForces**. M
 [5]: https://codeforces.com/group/MWSDmqGsZm/contest/219774
 [5A]: https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/A
 [5B]: https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/B
+[5C]: https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/C
