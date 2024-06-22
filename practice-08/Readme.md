@@ -71,6 +71,11 @@ Then I decided to take a step back and familiarize myself with **CodeForces**. M
 -   [**A:** Summation][5A]
 -   [**B:** Searching][5B]
 -   [**C:** Replacement][5C]
+-   [**D:** Positions in Array][5D]
+-   [**E:** Lowest Number][5E]
+-   [**F:** Reversing][5F]
+-   [**G:** Palindrome Array][5G]
+-   [**H:** Sorting][5H]
 
 <!-- === links === -->
 
@@ -135,3 +140,8 @@ Then I decided to take a step back and familiarize myself with **CodeForces**. M
 [5A]: https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/A
 [5B]: https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/B
 [5C]: https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/C
+[5D]: https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/D
+[5E]: https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/E
+[5F]: https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/F
+[5G]: https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/G
+[5H]: https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/H
