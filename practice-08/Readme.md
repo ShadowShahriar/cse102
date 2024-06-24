@@ -76,6 +76,7 @@ Then I decided to take a step back and familiarize myself with **CodeForces**. M
 -   [**F:** Reversing][5F]
 -   [**G:** Palindrome Array][5G]
 -   [**H:** Sorting][5H]
+-   [**I:** Smallest Pair][5I]
 
 <!-- === links === -->
 
@@ -145,3 +146,4 @@ Then I decided to take a step back and familiarize myself with **CodeForces**. M
 [5F]: https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/F
 [5G]: https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/G
 [5H]: https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/H
+[5I]: https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/I
