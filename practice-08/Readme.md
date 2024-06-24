@@ -76,7 +76,7 @@ Then I decided to take a step back and familiarize myself with **CodeForces**. M
 -   [**F:** Reversing][5F]
 -   [**G:** Palindrome Array][5G]
 -   [**H:** Sorting][5H]
--   [**I:** Smallest Pair][5I]
+-   [**I:** Smallest Pair (⭐)][5I]
 
 <!-- === links === -->
 
