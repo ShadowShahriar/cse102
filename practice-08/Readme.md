@@ -77,6 +77,8 @@ Then I decided to take a step back and familiarize myself with **CodeForces**. M
 -   [**G:** Palindrome Array][5G]
 -   [**H:** Sorting][5H]
 -   [**I:** Smallest Pair (⭐)][5I]
+-   [**J:** Lucky Array][5J]
+-   [**K:** Sum Digits (⭐)][5K]
 
 <!-- === links === -->
 
@@ -147,3 +149,5 @@ Then I decided to take a step back and familiarize myself with **CodeForces**. M
 [5G]: https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/G
 [5H]: https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/H
 [5I]: https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/I
+[5J]: https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/J
+[5K]: https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/K
