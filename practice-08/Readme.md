@@ -79,6 +79,7 @@ Then I decided to take a step back and familiarize myself with **CodeForces**. M
 -   [**I:** Smallest Pair (⭐)][5I]
 -   [**J:** Lucky Array][5J]
 -   [**K:** Sum Digits (⭐)][5K]
+-   [**L:** Max Subarray (⭐)][5L]
 
 <!-- === links === -->
 
@@ -151,3 +152,4 @@ Then I decided to take a step back and familiarize myself with **CodeForces**. M
 [5I]: https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/I
 [5J]: https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/J
 [5K]: https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/K
+[5L]: https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/L
