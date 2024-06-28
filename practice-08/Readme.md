@@ -81,6 +81,7 @@ Then I decided to take a step back and familiarize myself with **CodeForces**. M
 -   [**K:** Sum Digits (⭐)][5K]
 -   [**L:** Max Subarray (⭐)][5L]
 -   [**M:** Replace MinMax][5M]
+-   [**N:** Check Code][5N]
 
 <!-- === links === -->
 
@@ -155,3 +156,4 @@ Then I decided to take a step back and familiarize myself with **CodeForces**. M
 [5K]: https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/K
 [5L]: https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/L
 [5M]: https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/M
+[5N]: https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/N
