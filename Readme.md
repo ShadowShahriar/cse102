@@ -6,9 +6,9 @@ While I have some coding knowledge, I understand the importance of consistent pr
 
 > This repository is an open book containing all my solutions to CSE problems. Most of these tasks were assigned by our CSE lecturer, [**Nafis Saami Azad (NSAZ)**][1]. I am extremely thankful to him for mentoring me and 41 other students during the first semester of **Intake 53**.
 
-**Duration:** 4 months and 16 days (from **14 Feb 2024** to **29 Jun 2024**)
+**Duration:** 4 months and 17 days (from **14 Feb 2024** to **30 Jun 2024**)
 
-**Problems Solved:** 268
+**Problems Solved:** 269
 
 **Student Information:**
 
