@@ -84,6 +84,7 @@ Then I decided to take a step back and familiarize myself with **CodeForces**. M
 -   [**N:** Check Code (⭐)][5N]
 -   [**O:** Fibonacci][5O]
 -   [**P:** Minimize Number][5P]
+-   [**Q:** Count Subarrays][5Q]
 
 <!-- === links === -->
 
@@ -161,3 +162,4 @@ Then I decided to take a step back and familiarize myself with **CodeForces**. M
 [5N]: https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/N
 [5O]: https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/O
 [5P]: https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/P
+[5Q]: https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/Q
