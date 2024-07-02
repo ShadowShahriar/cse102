@@ -85,6 +85,7 @@ Then I decided to take a step back and familiarize myself with **CodeForces**. M
 -   [**O:** Fibonacci][5O]
 -   [**P:** Minimize Number][5P]
 -   [**Q:** Count Subarrays][5Q]
+-   [**R:** Permutation with Arrays][5R]
 
 <!-- === links === -->
 
@@ -163,3 +164,4 @@ Then I decided to take a step back and familiarize myself with **CodeForces**. M
 [5O]: https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/O
 [5P]: https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/P
 [5Q]: https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/Q
+[5R]: https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/R
