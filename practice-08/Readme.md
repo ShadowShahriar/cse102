@@ -89,6 +89,7 @@ Then I decided to take a step back and familiarize myself with **CodeForces**. M
 -   [**S:** Search In Matrix][5S]
 -   [**T:** Matrix (⭐)][5T]
 -   [**U:** Is B a subsequence of A? (⭐)][5U]
+-   [**V:** Frequency Array (⭐)][5V]
 
 <!-- === links === -->
 
@@ -171,3 +172,4 @@ Then I decided to take a step back and familiarize myself with **CodeForces**. M
 [5S]: https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/S
 [5T]: https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/T
 [5U]: https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/U
+[5V]: https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/V
